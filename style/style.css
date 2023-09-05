@@ -18,8 +18,8 @@
 }
 .navbar li a {
 	margin: 20px;
-	padding: 0;
-	color: #000;
+	padding-right: 20px;
+	color: black;
 	overflow: hidden;
   display: block;
   text-align: center;
@@ -29,10 +29,11 @@
 	letter-spacing: 5px;
 	text-transform: uppercase;
   font-family: 'League Spartan', sans-serif;
+  
 }
 .navbar li a:hover
 {
-  color: #022e75;
+  color: #010642;
   transition: 0.5s;
 }
 
